@@ -36,7 +36,7 @@
             android:id="@+id/tvName"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="M Ilham Nurdin"
+            android:text="Fuad Nuryandito"
             android:textSize="16sp"
             android:layout_marginBottom="4dp" />
 
@@ -58,7 +58,7 @@
             android:id="@+id/tvUser"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Ilham"
+            android:text="fuad"
             android:textSize="16sp"
             android:layout_marginBottom="4dp" />
 
@@ -102,7 +102,7 @@
             android:id="@+id/tvEmail"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Ilham@gmail.com"
+            android:text="fuad@gmail.com"
             android:textSize="16sp"
             android:layout_marginBottom="4dp" />
 
